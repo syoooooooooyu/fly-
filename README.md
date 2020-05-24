@@ -1,4 +1,4 @@
-# [fly](https://github.com/syoooooooooyu/fly+/)
+# [fly](https://github.com/syoooooooooyu/fly-)
 flyプラグインを強く(語彙力)したものです。
 
 # 利用方法
