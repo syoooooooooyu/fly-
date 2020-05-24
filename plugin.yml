@@ -1,0 +1,12 @@
+name: fly
+main: syouyu\fly\Main
+version: 1.0.0
+api: [3.0.0,4.0.0]
+load: POSTWORLD
+author: syouyu
+description: flyを有効または無効にできるようにします。
+
+commands:
+  fly:
+    description: flyを有効または無効にします
+    usage: /fly
